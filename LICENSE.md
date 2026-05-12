@@ -1,4 +1,4 @@
-# 
+# OBS Studio for macOS best Overlay: text-animation & echo-removal is the best OBS Studio for macOS overlay, featuring text-animation and echo-removal. Safe, efficient, and
 
 
 
